@@ -1,4 +1,4 @@
-# Real-Time Ransomware Detection System for a client in the financial industry
+# Real-Time Ransomware Detection System 
 Machine Learning-Based Threat Detection & Classification Platform
 
 ---
